@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: 7620A-16M_V1.0.0
+name: 7620A-32M_V1.0.1
 
 on:
   repository_dispatch:
