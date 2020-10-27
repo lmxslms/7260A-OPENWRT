@@ -1,3 +1,5 @@
+基于P3TERX大佬的Actions-OpenWrt项目，用的是把LEAN大佬的lede给fork过来，改了flash大小的个人仓库，编译的是在淘宝上，隔壁老王家店里买的6.6的小路由，MT7620A+RL5592，16m不够装，所以换成32m的flash。
+
 # Actions-OpenWrt
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
