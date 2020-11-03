@@ -17,10 +17,10 @@
 sed -i 's/OpenWrt/lmxslmxs Build $(TZ=UTC-8 date "+%Y.%m.%d") @ OpenWrt/g' package/lean/default-settings/files/zzz-default-settings
 
 # Add luci-app-usb-printer
-git clone https://github.com/lmxslmslmxslms/OpenWrt-packages-1/tree/master/luci-app-usb-printer
+# git clone https://github.com/lmxslmslmxslms/OpenWrt-packages-1/tree/master/luci-app-usb-printer
 
 # Add luci-app-ttyd
-https://github.com/lmxslmslmxslms/OpenWrt-packages-1/tree/master/luci-app-ttyd
+# https://github.com/lmxslmslmxslms/OpenWrt-packages-1/tree/master/luci-app-ttyd
 
 # Add luci-theme-infinityfreedom
 svn co https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom/trunk/luci-theme-infinityfreedom package/openwrt-packages/luci-theme-infinityfreedom
