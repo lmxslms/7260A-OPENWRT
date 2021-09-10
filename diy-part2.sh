@@ -23,4 +23,4 @@ sed -i 's/OpenWrt/lmxslmxs Build $(TZ=UTC-8 date "+%Y.%m.%d") @ OpenWrt/g' packa
 # https://github.com/lmxslmslmxslms/OpenWrt-packages-1/tree/master/luci-app-ttyd
 
 # Add luci-theme-infinityfreedom
-svn co https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom/trunk/luci-theme-infinityfreedom package/openwrt-packages/luci-theme-infinityfreedom
+#svn co https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom/trunk/luci-theme-infinityfreedom package/openwrt-packages/luci-theme-infinityfreedom
